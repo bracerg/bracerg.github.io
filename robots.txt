@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bracerg.github.io/sitemap.html.gz
+Sitemap: https://bracerg.github.io/app/sitemap.html.gz
+Sitemap: https://bracerg.github.io/assets/sitemap.html.gz
+Sitemap: https://bracerg.github.io/css/sitemap.html.gz
+Sitemap: https://bracerg.github.io/data/sitemap.html.gz
+Sitemap: https://bracerg.github.io/includes/sitemap.html.gz
+Sitemap: https://bracerg.github.io/item/sitemap.html.gz
+Sitemap: https://bracerg.github.io/src/sitemap.html.gz
